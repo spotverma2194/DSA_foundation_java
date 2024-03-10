@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bubblesort.iml" filepath="$PROJECT_DIR$/Bubblesort.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA_foundation_java.iml" filepath="$PROJECT_DIR$/.idea/DSA_foundation_java.iml" />
     </modules>
   </component>
