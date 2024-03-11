@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/Bubblesort/pom.xml" />
         <option value="$PROJECT_DIR$/Selectionsort/pom.xml" />
+        <option value="$PROJECT_DIR$/Insertionsort/pom.xml" />
       </list>
     </option>
   </component>
