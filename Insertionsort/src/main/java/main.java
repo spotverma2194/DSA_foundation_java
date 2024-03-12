@@ -13,7 +13,6 @@ public class main {
                a[j-1]=tmp;
                //decrement j by 1
                j--;
-
            }
        }
    }
