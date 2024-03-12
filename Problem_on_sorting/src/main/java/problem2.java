@@ -10,6 +10,7 @@ public class problem2 {
                     minidx=j;
                 }
             }
+
             String tmp=str[i];
             str[i]=str[minidx];
             str[minidx]=tmp;
