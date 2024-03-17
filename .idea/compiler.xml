@@ -9,11 +9,9 @@
         <module name="Insertionsort" />
         <module name="Selectionsort" />
         <module name="Problem_on_sorting" />
+        <module name="Merge_sort" />
         <module name="Bubblesort" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Bubblesort" target="21" />
-    </bytecodeTargetLevel>
   </component>
 </project>
