@@ -10,6 +10,7 @@
         <module name="Selectionsort" />
         <module name="Problem_on_sorting" />
         <module name="Merge_sort" />
+        <module name="Quick_Sorting" />
         <module name="Bubblesort" />
       </profile>
     </annotationProcessing>
