@@ -10,7 +10,17 @@
         <option value="$PROJECT_DIR$/Problem_on_sorting/pom.xml" />
         <option value="$PROJECT_DIR$/Merge_sort/pom.xml" />
         <option value="$PROJECT_DIR$/Quick_Sorting/pom.xml" />
+        <option value="$PROJECT_DIR$/ountsort/pom.xml" />
+        <option value="$PROJECT_DIR$/Countsort/pom.xml" />
+        <option value="$PROJECT_DIR$/sorting/pom.xml" />
+        <option value="$PROJECT_DIR$/radixsort/pom.xml" />
+        <option value="$PROJECT_DIR$/Bucket_sort/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ountsort/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">

@@ -6,13 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Insertionsort" />
-        <module name="Selectionsort" />
+        <module name="Bucket_sort" />
         <module name="Problem_on_sorting" />
+        <module name="Bubblesort" />
+        <module name="sorting" />
+        <module name="Insertionsort" />
+        <module name="radixsort" />
+        <module name="Selectionsort" />
         <module name="Merge_sort" />
         <module name="Quick_Sorting" />
-        <module name="Bubblesort" />
+        <module name="Countsort" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ountsort" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
