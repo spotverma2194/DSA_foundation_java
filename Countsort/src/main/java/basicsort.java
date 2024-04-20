@@ -43,7 +43,7 @@ public class basicsort {
             output[idx]=arr[i];
             count[arr[i]]--;
         }
-        //put all ouptut elements in Original arrayvviv ifb ifv bbri
+        //put all ouptut elements in Original array
         for(int i=0;i<n;i++){
             arr[i]=output[i];
         }
