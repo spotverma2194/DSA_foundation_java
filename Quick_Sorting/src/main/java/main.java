@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Random;
 
 public class main {
     static void swap(int[] arr,int a,int b){
@@ -7,7 +8,9 @@ public class main {
         arr[b]=temp;
     }
     static int partion(int[] arr,int st,int end){
-        int pivotele=arr[st];
+        Random r=new Random();
+        int rt=r.nextInt(end-st)+st;
+        int pivotele=arr[rt];
         int count=0;
         for(int i=st+1;i<=end;i++){
             if(arr[i]<=pivotele){
