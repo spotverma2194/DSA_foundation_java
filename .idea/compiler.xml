@@ -20,6 +20,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ountsort" target="21" />
+      <module name="sorting" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
