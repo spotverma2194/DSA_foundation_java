@@ -9,7 +9,6 @@
         <module name="Bucket_sort" />
         <module name="Problem_on_sorting" />
         <module name="Bubblesort" />
-        <module name="sorting" />
         <module name="Insertionsort" />
         <module name="radixsort" />
         <module name="Selectionsort" />
@@ -20,6 +19,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ountsort" target="21" />
+      <module name="sorting" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

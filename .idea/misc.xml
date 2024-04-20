@@ -20,6 +20,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/ountsort/pom.xml" />
+        <option value="$PROJECT_DIR$/sorting/pom.xml" />
       </set>
     </option>
   </component>
