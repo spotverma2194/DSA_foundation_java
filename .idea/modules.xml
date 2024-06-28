@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Binary_Search/01_Binary_Search.iml" filepath="$PROJECT_DIR$/01_Binary_Search/01_Binary_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Search/Binary_Search.iml" filepath="$PROJECT_DIR$/Binary_Search/Binary_Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA_foundation_java.iml" filepath="$PROJECT_DIR$/.idea/DSA_foundation_java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Problems_on_sorting2/Problems_on_sorting2.iml" filepath="$PROJECT_DIR$/Problems_on_sorting2/Problems_on_sorting2.iml" />
     </modules>
   </component>
 </project>
