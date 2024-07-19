@@ -1,6 +1,5 @@
 public class findtarget {
     static int findtrg(int[] a,int t){
-        int ans=-1;
         int st=0;
         int ed=a.length-1;
         while(st<=ed){
