@@ -1,6 +1,7 @@
 public class Distributedchocolates {
     static  boolean isDivisionPossible(int[] a,int m,int maxchocoallowed){
-
+        boolean n=true;
+        return true;
     }
     static int distributedchocolates(int[] a,int m){
         if(a.length<m) return -1;
